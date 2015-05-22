@@ -1,0 +1,1 @@
+ModemScan is a Microsoft Windows software program which facilitates the auditing and discovery of analog modems and FAX machines. This type of software is commonly referred to as a wardialer or war dialer. Wardialing, also known as telephone scanning, is the practice of dialing all the phone numbers in a range in order to find those that will answer with modem or FAX tones.
